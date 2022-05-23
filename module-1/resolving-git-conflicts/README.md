@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png) hola
 
 # Lab | Resolving Git Conflicts
 
